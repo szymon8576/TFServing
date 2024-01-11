@@ -8,4 +8,4 @@ docker build -t acr-name.azurecr.io/tfs-image:version1.0 .
 docker push acr-name.azurecr.io/tfs-image:version1.0  
 
 ### WebApp Configuration
-WEBSITES_PORT = XXXX  _#expose TFServing API port(s)_
+WEBSITES_PORT = XXXX  _[expose TFServing API port]_
